@@ -1,1 +1,1 @@
-실전코딩 여름학기 Jenkins 연동 Test
+실전코딩 여름학기 Jenkins 연동 완료(Test)
